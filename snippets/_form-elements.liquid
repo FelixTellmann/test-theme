@@ -17,10 +17,10 @@
              type="{{ input_type | default: 'text' }}"
              class="w-full h-full border-2 border-primary-outline pt-5 px-3 pb-1.5 peer rounded-primary text-sm placeholder-transparent"
              placeholder="{{ placeholder | default: "." }}"
+             {% if required %}required{% endif %}
              autocomplete="{{ autocomplete }}"
-             {% if autofocus %}autofocus{% endif %}
+        {% if autofocus %}autofocus{% endif %}
              value="{{ value }}"
-        {% if required %}required{% endif %}
           {{ html_attributes }} />
       <span class="absolute left-3 top-[0.3125rem] text-gray-500 text-xs transition-all peer-placeholder-shown:text-sm peer-placeholder-shown:text-gray-400 peer-placeholder-shown:top-3.5 peer-focus:top-[0.3125rem] peer-focus:text-gray-500 peer-focus:text-xs">{{ label }}</span>
     </label>

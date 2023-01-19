@@ -19,7 +19,7 @@
              href="{{ routes.account_addresses_url }}">
             Addresses
           </a>
-          <a class="hf:underline hf:text-theme-text "
+         <a class="hf:underline hf:text-theme-text"
              href="{{ routes.account_logout_url }}">
             Log Out
           </a>
@@ -134,6 +134,7 @@
 
 
 {% render 'main-addresses.form', address: customer.default_address, title: "Edit your Default Address" %}
+
 {% render '_color-group-access', colorGroup: section.settings.color_scheme, paddingTop: section.settings.padding_top, paddingBottom: section.settings.padding_bottom %}
 {% schema %}
 {
