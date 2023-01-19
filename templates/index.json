@@ -102,8 +102,8 @@
         "preheading": "Everything you need",
         "title": "Accelerate Theme",
         "description": "<p>Ac euismod vel sit <strong>maecenas <\/strong>id pellentesque eu sed consectetur. <em>Malesuada <\/em>adipiscing sagittis vel nulla nec.<\/p>",
-        "layout": "story",
-        "color_scheme": "color-inherit"
+        "layout": "icon-minimal",
+        "color_scheme": "bg-theme-bg text-theme-text color-group-2"
       }
     },
     "a2139d2a-72d3-4a90-b86f-336436371086": {
@@ -207,8 +207,8 @@
         "preheading": "Everything you need",
         "title": "Accelerate Theme",
         "description": "<p>Ac euismod vel sit <strong>maecenas <\/strong>id pellentesque eu sed consectetur. <em>Malesuada <\/em>adipiscing sagittis vel nulla nec.<\/p>",
-        "layout": "image-column",
-        "color_scheme": "color-inherit"
+        "layout": "icon-cards",
+        "color_scheme": "bg-theme-bg text-theme-text color-group-1"
       }
     }
   },
