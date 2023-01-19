@@ -65,7 +65,7 @@
         "free_shipping_bar__target": 3940,
         "free_shipping_bar__height": 56,
         "free_shipping_bar__color_scheme": "bg-theme-bg text-theme-text color-group-2",
-        "announcements__show": "all",
+        "announcements__show": "disable",
         "announcements__height": 40,
         "cart__recommended_products__enable": true,
         "cart__recommended_products": [
