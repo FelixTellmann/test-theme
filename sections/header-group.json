@@ -69,12 +69,7 @@
         "announcements__height": 40,
         "cart__recommended_products__enable": true,
         "cart__recommended_products": [
-          "4-saisons-silk-scarf",
-          "100-interiors-around-the-world",
-          "agami-straight-leg-trouser",
-          "aida-lace-tank",
-          "acacia-knit-cardigan",
-          "aiko-cotton-shirt"
+
         ]
       }
     },
@@ -105,7 +100,7 @@
         "color_scheme": "bg-theme-bg text-theme-text color-group-1",
         "logo": "branding_logo_dark_on_light",
         "logo_height": 50,
-        "menu": "minion-menu",
+        "menu": "",
         "force_hamburger_menu": false,
         "center_logo": true,
         "height": 85,
