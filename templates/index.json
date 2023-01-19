@@ -397,8 +397,7 @@
         "c7bbdd78-ecbf-48d8-b57d-c89c48f9550d": {
           "type": "text",
           "settings": {
-            "title": "<p>Heading yay!<\/p>",
-            "style": "h3"
+            "title": "<p>Heading yay!<\/p>"
           }
         },
         "e4f86123-4c09-4857-9b2d-68ac52ea9a9f": {
@@ -419,8 +418,7 @@
         "22e947e3-0b12-4571-8a9e-6419a4ae2e4f": {
           "type": "text",
           "settings": {
-            "title": "<p>This is some more text here ! just for your info!<\/p>",
-            "style": "richtext"
+            "title": "<p>This is some more text here ! just for your info!<\/p>"
           }
         },
         "9ed1cbce-c0d3-4373-816d-ff760e9ca5d4": {
@@ -451,12 +449,10 @@
         "e4278c9b-4c63-4a62-a7f9-b4fd05f2f30d"
       ],
       "settings": {
-        "fullwidth": true,
-        "min_height": 380,
-        "align__vertical": "justify-center",
-        "align__horizontal": "items-center text-center",
         "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
         "image__overlay": "linear-gradient(180deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.35) 100%)",
+        "align__vertical": "justify-center",
+        "align__horizontal": "items-center text-center",
         "color_scheme": "color-group-1"
       }
     },
@@ -694,8 +690,7 @@
         "e09234fa-84e9-4d36-9c6a-facacfbb790f": {
           "type": "text",
           "settings": {
-            "title": "<p><strong>Content <\/strong>Here!<\/p>",
-            "style": "h2"
+            "title": "<p><strong>Content <\/strong>Here!<\/p>"
           }
         },
         "ed53e81e-02d3-442a-a562-3c59e5a4d22b": {
@@ -709,8 +704,7 @@
         "2854547a-e34e-4034-8490-361589dfc843": {
           "type": "text",
           "settings": {
-            "title": "<p>This is a long <em>paragraph<\/em><\/p>",
-            "style": "richtext"
+            "title": "<p>This is a long <em>paragraph<\/em><\/p>"
           }
         },
         "5b4cdc7b-fd74-4d18-b5e2-6eaa91bd1979": {
@@ -740,7 +734,6 @@
         "c72530fe-33a2-460e-b7e9-28746e631974"
       ],
       "settings": {
-        "fullwidth": false,
         "align__horizontal": "items-center text-center",
         "color_scheme": "color-group-2"
       }
@@ -749,24 +742,7 @@
       "type": "products-scrollable",
       "disabled": true,
       "settings": {
-        "title": "Collection List",
-        "products": [
-          "blanket-sandbox-store-home-goods",
-          "smart-theme-hat",
-          "product-8",
-          "iphone-13-case-single-color-variant"
-        ],
-        "collection": "collection-3",
-        "product_limit": 20,
-        "collection__view_all": true,
-        "vendor__show": true,
-        "rating__show": true,
-        "labels__show": true,
-        "labels__discount": "percentage",
-        "image__ratio": "pb-[125%]",
-        "image__show_secondary": true,
-        "image__background": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
-        "image__drop_shadow": true
+        "product_limit": 20
       }
     },
     "fba0f3a7-f8af-4b27-bef1-80250130f4e0": {
@@ -799,14 +775,6 @@
           "cool-dust"
         ],
         "collection": "collection-3",
-        "vendor__show": true,
-        "rating__show": true,
-        "labels__show": true,
-        "labels__discount": "percentage",
-        "image__ratio": "pb-[100%]",
-        "image__show_secondary": true,
-        "image__background": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
-        "image__drop_shadow": true,
         "color_scheme": "color-inherit"
       }
     },
@@ -991,97 +959,9 @@
         "color_scheme": "color-inherit"
       }
     },
-    "5592dacb-ab2f-49b9-bb86-a2e0e5a74c34": {
-      "type": "scrollable-images",
-      "disabled": true,
-      "blocks": {
-        "fb4a9016-b3be-4f2b-b4f1-494b21ea73e4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
-            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-            "title": "test2",
-            "url": "#"
-          }
-        },
-        "97ea3b8f-97af-467f-ad31-1be1df4887da": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg",
-            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-            "title": "test",
-            "url": ""
-          }
-        },
-        "6d67c6e5-536b-48a3-9565-4cc644908270": {
-          "type": "image",
-          "settings": {
-            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-            "title": "",
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "fb4a9016-b3be-4f2b-b4f1-494b21ea73e4",
-        "97ea3b8f-97af-467f-ad31-1be1df4887da",
-        "6d67c6e5-536b-48a3-9565-4cc644908270"
-      ],
-      "settings": {
-        "overflow": false,
-        "height": 240,
-        "overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-        "products": [
-          "apron-sandbox-store-home-goods",
-          "blanket-sandbox-store-home-goods",
-          "smart-theme-hat",
-          "product-8",
-          "iphone-case-red",
-          "iphone-case-sandbox-store-accessories",
-          "jersey-shorts-sandbox-store-apparel",
-          "kettle-sandbox-store-home-goods"
-        ],
-        "collections": [
-          "collection-3",
-          "collection-5",
-          "collection-7"
-        ],
-        "color_scheme": "color-group-1"
-      }
-    },
     "48283109-3d44-4f3b-bc6c-769f270fb0e5": {
       "type": "object-over-image",
       "disabled": true,
-      "blocks": {
-        "e394ff15-845f-434a-bd8b-f8b41b5dc668": {
-          "type": "product",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
-            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-            "object": "product-8"
-          }
-        },
-        "b63c1393-6ed8-42e9-9606-622dcefccfdf": {
-          "type": "collection",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg",
-            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-            "object": "collection-7"
-          }
-        },
-        "f326b626-af56-4475-9ac1-03ca98e1bdfc": {
-          "type": "collection",
-          "settings": {
-            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
-            "object": ""
-          }
-        }
-      },
-      "block_order": [
-        "e394ff15-845f-434a-bd8b-f8b41b5dc668",
-        "b63c1393-6ed8-42e9-9606-622dcefccfdf",
-        "f326b626-af56-4475-9ac1-03ca98e1bdfc"
-      ],
       "settings": {
         "color_scheme": "color-inherit"
       }
@@ -1092,13 +972,13 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
         "image__aspect_ratio": "pb-[100%]",
+        "image__order": "-order-1",
         "title": "Set informed marketing goals with traffic insights",
         "content": "<p>Using real data takes the guesswork out of your marketing strategy. Online store traffic insights help you see which sources bring traffic to your online store.<\/p>",
         "button_primary__text": "Shop now",
         "button_primary__url": "#",
         "button_secondary__text": "read more",
         "button_secondary__url": "#",
-        "image__order": "-order-1",
         "color_scheme": "color-inherit"
       }
     },
@@ -1163,7 +1043,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
         "image__overlay": "linear-gradient(134deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.32) 100%)",
-        "min_height": 400,
         "align__vertical": "justify-center",
         "align__horizontal": "items-end text-right",
         "section_layout": "fullwidth",
@@ -1188,7 +1067,6 @@
     "a9e42245-4009-4562-b3e7-c206d846a2fd",
     "0b3c7426-c03c-48bb-8e0a-850548d9dbb5",
     "c7dee271-c457-4cd4-a75c-62c693fa4495",
-    "5592dacb-ab2f-49b9-bb86-a2e0e5a74c34",
     "48283109-3d44-4f3b-bc6c-769f270fb0e5",
     "648e6a21-25ea-4d01-9a1e-f6b838b626ea",
     "image_banner"
