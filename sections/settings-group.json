@@ -42,6 +42,7 @@
         },
         "32b952ba-c791-40c9-a7d7-34a93c648ca4": {
           "type": "sku",
+          "disabled": true,
           "settings": {
             "grid_span": "col-span-8"
           }
@@ -77,13 +78,15 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "grid_span": "col-span-8"
+            "grid_span": "col-span-8",
+            "button__style": "button-primary"
           }
         },
         "16eae1aa-2b18-4ddb-b435-b481ac775019": {
           "type": "dynamic_buy_buttons",
           "settings": {
-            "grid_span": "col-span-4"
+            "grid_span": "col-span-4",
+            "button__style": "button-primary"
           }
         },
         "description": {
@@ -97,7 +100,7 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "<p><\/p>",
+            "content": "",
             "page": "test-page"
           }
         },
