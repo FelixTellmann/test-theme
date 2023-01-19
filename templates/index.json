@@ -1,0 +1,1196 @@
+{
+  "sections": {
+    "c5220cf1-9456-4564-8b1c-a5a9db22e4d2": {
+      "type": "faq",
+      "blocks": {
+        "37e2fafc-82c9-42af-ad7a-02d263a13b97": {
+          "type": "group",
+          "settings": {
+            "title": "Important Questions"
+          }
+        },
+        "752a1244-5a71-4f49-9728-c1d59924b5df": {
+          "type": "faq",
+          "settings": {
+            "title": "Why do you never see elephants hiding in trees?",
+            "answer": "<p>Because they're so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.<\/p>",
+            "page": ""
+          }
+        },
+        "cdec6e11-2200-4ba8-9fa3-94b53f69ba57": {
+          "type": "faq",
+          "settings": {
+            "title": "Why can't you hear a pterodactyl go to the bathroom?",
+            "answer": "<p>Because the pee is silent. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.<\/p>",
+            "page": ""
+          }
+        },
+        "8cab9219-2da9-401e-80c6-27d9c890164d": {
+          "type": "faq",
+          "settings": {
+            "title": "Why did the invisible man turn down the job offer?",
+            "answer": "<p><strong>He <\/strong>couldn't see himself doing it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.<\/p>",
+            "page": ""
+          }
+        },
+        "9c37d9f1-9e69-45cd-b4e8-457cff8254e8": {
+          "type": "faq",
+          "settings": {
+            "title": "",
+            "answer": "",
+            "page": "test-page"
+          }
+        },
+        "63d20a30-650f-4360-a6be-4cd31d7a80b7": {
+          "type": "group",
+          "settings": {
+            "title": "Normal Questions"
+          }
+        },
+        "120c4327-f1c6-4c6f-b042-26ae6d21a995": {
+          "type": "faq",
+          "settings": {
+            "title": "asdasd",
+            "answer": "<p>asdasdasd<\/p>",
+            "page": ""
+          }
+        },
+        "ff6dec0c-ecda-4726-a968-b8795626ad32": {
+          "type": "group",
+          "settings": {
+            "title": "Group title"
+          }
+        },
+        "2ad76d4a-c2ac-4be0-a618-dc25bc6fd037": {
+          "type": "faq",
+          "settings": {
+            "title": "asdasdasd",
+            "answer": "",
+            "page": "test-page"
+          }
+        },
+        "d9ef081b-bbec-4a6e-bcf2-f5ed7fe85ee8": {
+          "type": "faq",
+          "settings": {
+            "title": "Another Questions",
+            "answer": "<p>test here!<\/p>",
+            "page": ""
+          }
+        },
+        "6fde67bb-56e7-456d-84bf-17426f934c5d": {
+          "type": "group",
+          "settings": {
+            "title": "last group"
+          }
+        },
+        "4d099136-8e21-433b-a085-7b29dd44fd88": {
+          "type": "faq",
+          "settings": {
+            "title": "",
+            "answer": "",
+            "page": "contact"
+          }
+        }
+      },
+      "block_order": [
+        "37e2fafc-82c9-42af-ad7a-02d263a13b97",
+        "752a1244-5a71-4f49-9728-c1d59924b5df",
+        "cdec6e11-2200-4ba8-9fa3-94b53f69ba57",
+        "8cab9219-2da9-401e-80c6-27d9c890164d",
+        "9c37d9f1-9e69-45cd-b4e8-457cff8254e8",
+        "63d20a30-650f-4360-a6be-4cd31d7a80b7",
+        "120c4327-f1c6-4c6f-b042-26ae6d21a995",
+        "ff6dec0c-ecda-4726-a968-b8795626ad32",
+        "2ad76d4a-c2ac-4be0-a618-dc25bc6fd037",
+        "d9ef081b-bbec-4a6e-bcf2-f5ed7fe85ee8",
+        "6fde67bb-56e7-456d-84bf-17426f934c5d",
+        "4d099136-8e21-433b-a085-7b29dd44fd88"
+      ],
+      "settings": {
+        "title": "",
+        "width": "max-w-xl",
+        "responsive_visibility": "responsive",
+        "padding_top": "pt-md",
+        "padding_bottom": "pb-md",
+        "color_scheme": "color-group-1"
+      }
+    },
+    "aac65a3e-3391-4282-bb24-de5e5ad55138": {
+      "type": "forms",
+      "disabled": true,
+      "blocks": {
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-0": {
+          "type": "text",
+          "settings": {
+            "title": "<p><strong>Sign Up<\/strong><\/p>",
+            "style": "h2",
+            "grid_span": "col-span-12"
+          }
+        },
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-1": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Lorem <strong>ipsum <\/strong>dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "style": "richtext",
+            "grid_span": "col-span-12"
+          }
+        },
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-3": {
+          "type": "separator",
+          "settings": {
+            "height": 20
+          }
+        },
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-4": {
+          "type": "input",
+          "settings": {
+            "title": "First Name",
+            "name": "first_name",
+            "type": "text",
+            "placeholder": "",
+            "required": false,
+            "autocomplete": "given-name",
+            "grid_span": "col-span-12"
+          }
+        },
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-6": {
+          "type": "input",
+          "settings": {
+            "title": "Last Name",
+            "name": "last_name",
+            "type": "text",
+            "placeholder": "",
+            "required": false,
+            "autocomplete": "family-name",
+            "grid_span": "col-span-12"
+          }
+        },
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-5": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "placeholder": "",
+            "grid_span": "col-span-12"
+          }
+        },
+        "4b4f0109-a9ec-43e9-9f85-d62735120fd8": {
+          "type": "password",
+          "settings": {
+            "title": "Password",
+            "confirm_pw__title": "Confirm Password",
+            "grid_span": "col-span-12"
+          }
+        },
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-8": {
+          "type": "buttons",
+          "settings": {
+            "title": "Sign Up",
+            "reset__show": false,
+            "reset__title": "Reset",
+            "fullwidth": true,
+            "grid_span": "col-span-12"
+          }
+        }
+      },
+      "block_order": [
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-0",
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-1",
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-3",
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-4",
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-6",
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-5",
+        "4b4f0109-a9ec-43e9-9f85-d62735120fd8",
+        "template--16759633281343__aac65a3e-3391-4282-bb24-de5e5ad55138-16711904775e37acd9-8"
+      ],
+      "settings": {
+        "type": "create_customer",
+        "hide_if_account": true,
+        "show_only_on_target": false,
+        "target_id": "",
+        "success_message": "Thank you for contacting us.",
+        "redirect": "off",
+        "width": "max-w-md",
+        "fullwidth": true,
+        "image__overlay": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "5f35451b-dc1d-4f08-982a-f298b21cfe2c": {
+      "type": "forms",
+      "disabled": true,
+      "blocks": {
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-0": {
+          "type": "text",
+          "settings": {
+            "title": "<p><strong>Newsletter Signup<\/strong><\/p>",
+            "style": "h3",
+            "grid_span": "col-span-12"
+          }
+        },
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-3": {
+          "type": "separator",
+          "settings": {
+            "height": 20
+          }
+        },
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-5": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "placeholder": "",
+            "grid_span": "col-span-9"
+          }
+        },
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-8": {
+          "type": "buttons",
+          "settings": {
+            "title": "Subscribe",
+            "reset__show": false,
+            "reset__title": "",
+            "fullwidth": true,
+            "grid_span": "col-span-3"
+          }
+        },
+        "a1392995-0ff7-4e55-9148-482e4c8814ab": {
+          "type": "hidden",
+          "settings": {
+            "name": "tags",
+            "value": "newsletter, special, discount"
+          }
+        }
+      },
+      "block_order": [
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-0",
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-3",
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-5",
+        "template--16759633281343__5f35451b-dc1d-4f08-982a-f298b21cfe2c-167118853292bda86c-8",
+        "a1392995-0ff7-4e55-9148-482e4c8814ab"
+      ],
+      "settings": {
+        "type": "customer",
+        "hide_if_account": true,
+        "show_only_on_target": false,
+        "target_id": "",
+        "success_message": "Thank you for contacting us.",
+        "redirect": "off",
+        "width": "max-w-2xl",
+        "fullwidth": true,
+        "image__overlay": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "2dd7a932-e38b-42cd-ad6d-abfab01f2ccd": {
+      "type": "forms",
+      "disabled": true,
+      "blocks": {
+        "814e7083-e6b5-4a2e-a4d3-1367517e3d02": {
+          "type": "text",
+          "settings": {
+            "title": "<p><strong>Lorem Ipsum<\/strong><\/p>",
+            "style": "h2",
+            "grid_span": "col-span-12"
+          }
+        },
+        "114c76ca-8d71-4939-9dd8-6a172033354f": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "style": "h4",
+            "grid_span": "col-span-12"
+          }
+        },
+        "e9e4f57b-a30e-47dc-ae11-c8f99d39bb29": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Trade name: Your Business Name Inc.<br\/>Phone number: +1 123-456-7891<br\/>Email: yourbusinessemail@address.com<br\/>Physical address: 3 Industrial Pkwy S, Aurora Ontario L4G 3V9<br\/>VAT number: FRXX999999999<br\/>Trade number: 123456789<\/p>",
+            "style": "richtext",
+            "grid_span": "col-span-12"
+          }
+        },
+        "209fc2fc-2ac1-4703-85df-a7d4c38566d8": {
+          "type": "separator",
+          "settings": {
+            "height": 20
+          }
+        },
+        "e058d644-94f8-49cf-9ac8-f982839dcd12": {
+          "type": "input",
+          "settings": {
+            "title": "Name",
+            "name": "name",
+            "type": "text",
+            "placeholder": "",
+            "required": false,
+            "autocomplete": "name",
+            "grid_span": "col-span-6"
+          }
+        },
+        "33691bcf-c98a-4781-959c-2da109211eca": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "placeholder": "",
+            "grid_span": "col-span-6"
+          }
+        },
+        "23bf029c-a81e-44b5-b341-fc5f17705510": {
+          "type": "input",
+          "settings": {
+            "title": "Phone Number",
+            "name": "phone number",
+            "type": "tel",
+            "placeholder": "",
+            "required": false,
+            "autocomplete": "tel",
+            "grid_span": "col-span-12"
+          }
+        },
+        "c604106d-f2f1-4db6-8421-cf718b2ce423": {
+          "type": "textarea",
+          "settings": {
+            "title": "Message",
+            "name": "body",
+            "placeholder": "",
+            "rows": 4,
+            "required": false
+          }
+        },
+        "b6c889ce-4f50-4fea-9e0e-668b0c3bcfae": {
+          "type": "buttons",
+          "settings": {
+            "title": "Send",
+            "reset__show": false,
+            "reset__title": "",
+            "fullwidth": true,
+            "grid_span": "col-span-12"
+          }
+        }
+      },
+      "block_order": [
+        "814e7083-e6b5-4a2e-a4d3-1367517e3d02",
+        "114c76ca-8d71-4939-9dd8-6a172033354f",
+        "e9e4f57b-a30e-47dc-ae11-c8f99d39bb29",
+        "209fc2fc-2ac1-4703-85df-a7d4c38566d8",
+        "e058d644-94f8-49cf-9ac8-f982839dcd12",
+        "33691bcf-c98a-4781-959c-2da109211eca",
+        "23bf029c-a81e-44b5-b341-fc5f17705510",
+        "c604106d-f2f1-4db6-8421-cf718b2ce423",
+        "b6c889ce-4f50-4fea-9e0e-668b0c3bcfae"
+      ],
+      "settings": {
+        "type": "contact",
+        "hide_if_account": true,
+        "show_only_on_target": false,
+        "target_id": "",
+        "success_message": "Thank you for contacting us.",
+        "redirect": "off",
+        "width": "max-w-2xl",
+        "fullwidth": true,
+        "image__overlay": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "f7b3b514-c2b2-4b25-96f3-9e428f8a7f90": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "c7bbdd78-ecbf-48d8-b57d-c89c48f9550d": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Heading yay!<\/p>",
+            "style": "h3"
+          }
+        },
+        "e4f86123-4c09-4857-9b2d-68ac52ea9a9f": {
+          "type": "accent_line",
+          "settings": {
+            "color": "#ff0a0a",
+            "height": 4,
+            "width": 180
+          }
+        },
+        "6ba0b055-6e51-4a52-9df3-8b2f1fca8afe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-fwl.png",
+            "height": 30
+          }
+        },
+        "22e947e3-0b12-4571-8a9e-6419a4ae2e4f": {
+          "type": "text",
+          "settings": {
+            "title": "<p>This is some more text here ! just for your info!<\/p>",
+            "style": "richtext"
+          }
+        },
+        "9ed1cbce-c0d3-4373-816d-ff760e9ca5d4": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_primary__text": "asdasd",
+            "button_primary__url": "#",
+            "button_primary__style": "button-primary",
+            "button_secondary__text": "cta",
+            "button_secondary__url": "#",
+            "button_secondary__style": "button-primary--outline"
+          }
+        },
+        "e4278c9b-4c63-4a62-a7f9-b4fd05f2f30d": {
+          "type": "email",
+          "settings": {
+            "tag": "newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "c7bbdd78-ecbf-48d8-b57d-c89c48f9550d",
+        "e4f86123-4c09-4857-9b2d-68ac52ea9a9f",
+        "6ba0b055-6e51-4a52-9df3-8b2f1fca8afe",
+        "22e947e3-0b12-4571-8a9e-6419a4ae2e4f",
+        "9ed1cbce-c0d3-4373-816d-ff760e9ca5d4",
+        "e4278c9b-4c63-4a62-a7f9-b4fd05f2f30d"
+      ],
+      "settings": {
+        "fullwidth": true,
+        "min_height": 380,
+        "align__vertical": "justify-center",
+        "align__horizontal": "items-center text-center",
+        "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
+        "image__overlay": "linear-gradient(180deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.35) 100%)",
+        "color_scheme": "color-group-1"
+      }
+    },
+    "a2139d2a-72d3-4a90-b86f-336436371087": {
+      "type": "features",
+      "disabled": true,
+      "blocks": {
+        "a34d6bd7-0f00-44fe-a9ec-158515704c5b": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "lightning_bolt",
+            "title": "Lighting",
+            "content": "<p>Very very frightening! Veniam necessitatibus reiciendis fugit explicabo dolorem .Very very frightening! Veniam necessitatibus reiciendis fugit explicabo dolorem<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg"
+          }
+        },
+        "f536a651-bf07-4550-a0f9-450440ba4a05": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "fire",
+            "title": "Invite team members",
+            "content": "<p>You can manage phone, email and chat conversations all from a single mailbox. Find what you need with advanced filters, bulk actions, and quick views.<\/p>",
+            "url": "#",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg"
+          }
+        },
+        "5af2db75-3600-447e-9ec7-231e5eb73dbb": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "bottle",
+            "title": "Boards",
+            "content": "<p>Find what you need with advanced filters, bulk actions, and quick views.<\/p><p>Find what you need with advanced filters, bulk actions, and quick views. Find what you need with advanced filters, bulk actions, and quick views.<\/p>",
+            "url": "#",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg"
+          }
+        },
+        "69f589c7-8a89-43b4-b375-fecb6730c840": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "question_mark",
+            "title": "Ask then!",
+            "content": "<p>Find what you need with advanced filters, bulk actions, and quick views. Find what you need with advanced filters, bulk actions, and quick views.<\/p><p>Find what you need with advanced filters, bulk actions, and quick views.<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg"
+          }
+        },
+        "db3fe861-caa5-4580-a6e1-6025e89938be": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "heart",
+            "title": "Love",
+            "content": "<p>Omnis, illo delectus? Libero, possimus nulla nemo tenetur adipisci repellat dolore eligendi velit doloribus mollitia.<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg"
+          }
+        },
+        "e3227227-431f-425e-b0d2-b346d34778ad": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "heart",
+            "title": "Feature with SVG",
+            "content": "<p>Corporis quisquam nostrum nulla veniam recusandae temporibus aperiam officia incidunt at distinctio ratione.<\/p>",
+            "url": "",
+            "svg": "<svg viewbox=\"0 0 20 20\" fill=\"currentColor\" focusable=\"false\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M2.5 1a1.5 1.5 0 0 0-1.5 1.5v11a1.5 1.5 0 0 0 1.5 1.5h4.5c0 .525-.015.793-.144 1.053-.12.239-.416.61-1.303 1.053a1 1 0 0 0 .469 1.894h7.956a1.004 1.004 0 0 0 .995-.77 1.001 1.001 0 0 0-.544-1.134c-.873-.439-1.166-.806-1.285-1.043-.13-.26-.144-.528-.144-1.053h4.5a1.5 1.5 0 0 0 1.5-1.5v-11a1.5 1.5 0 0 0-1.5-1.5h-15zm8.883 16a2.621 2.621 0 0 1-.027-.053c-.357-.714-.357-1.42-.356-1.895v-.052h-2v.052c0 .475.001 1.181-.356 1.895a2.913 2.913 0 0 1-.027.053h2.766zm5.617-6h-14v2h14v-2z\"><\/path><\/svg>",
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg"
+          }
+        },
+        "38abdcbf-2c25-47af-8002-556abd08d958": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "eye",
+            "title": "spy",
+            "content": "<p>with my little.... Corporis quisquam nostrum nulla veniam recusan<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg"
+          }
+        },
+        "e302598c-f31e-4262-b05c-581d72bcd05b": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "recycle",
+            "title": "Recycle",
+            "content": "<p>Ac euismod vel sit<strong>maecenas<\/strong>id pellentesque eu sed consectetur.<em>Malesuada<\/em>adipiscing sagittis vel nulla nec.<\/p>",
+            "url": "",
+            "svg": ""
+          }
+        }
+      },
+      "block_order": [
+        "a34d6bd7-0f00-44fe-a9ec-158515704c5b",
+        "f536a651-bf07-4550-a0f9-450440ba4a05",
+        "5af2db75-3600-447e-9ec7-231e5eb73dbb",
+        "69f589c7-8a89-43b4-b375-fecb6730c840",
+        "db3fe861-caa5-4580-a6e1-6025e89938be",
+        "e3227227-431f-425e-b0d2-b346d34778ad",
+        "38abdcbf-2c25-47af-8002-556abd08d958",
+        "e302598c-f31e-4262-b05c-581d72bcd05b"
+      ],
+      "settings": {
+        "preheading": "Everything you need",
+        "title": "Accelerate Theme",
+        "description": "<p>Ac euismod vel sit <strong>maecenas <\/strong>id pellentesque eu sed consectetur. <em>Malesuada <\/em>adipiscing sagittis vel nulla nec.<\/p>",
+        "layout": "story",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "a2139d2a-72d3-4a90-b86f-336436371086": {
+      "type": "features",
+      "disabled": true,
+      "blocks": {
+        "f536a651-bf07-4550-a0f9-450440ba4a05": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "fire",
+            "title": "Invite team members",
+            "content": "<p>You can manage phone, email and chat conversations all from a single mailbox.<\/p>",
+            "url": "#",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg"
+          }
+        },
+        "5af2db75-3600-447e-9ec7-231e5eb73dbb": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "bottle",
+            "title": "Boards",
+            "content": "<p>Find what you need with advanced filters, bulk actions, and quick views.<\/p>",
+            "url": "#",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg"
+          }
+        },
+        "69f589c7-8a89-43b4-b375-fecb6730c840": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "question_mark",
+            "title": "Ask then!",
+            "content": "<p>Find what you need with advanced filters, bulk actions, and quick views.<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg"
+          }
+        },
+        "db3fe861-caa5-4580-a6e1-6025e89938be": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "heart",
+            "title": "Love",
+            "content": "<p>Omnis, illo delectus? Libero, possimus nulla nemo tenetur adipisci repellat dolore eligendi velit doloribus mollitia.<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg"
+          }
+        },
+        "a34d6bd7-0f00-44fe-a9ec-158515704c5b": {
+          "type": "feature",
+          "settings": {
+            "icon_list": "lightning_bolt",
+            "title": "Lighting",
+            "content": "<p>Very very frightening! Veniam necessitatibus reiciendis fugit explicabo dolorem<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg"
+          }
+        },
+        "e3227227-431f-425e-b0d2-b346d34778ad": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "heart",
+            "title": "Feature with SVG",
+            "content": "<p>Corporis quisquam nostrum nulla veniam recusandae temporibus aperiam officia incidunt at distinctio ratione.<\/p>",
+            "url": "",
+            "svg": "<svg viewbox=\"0 0 20 20\" fill=\"currentColor\" focusable=\"false\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M2.5 1a1.5 1.5 0 0 0-1.5 1.5v11a1.5 1.5 0 0 0 1.5 1.5h4.5c0 .525-.015.793-.144 1.053-.12.239-.416.61-1.303 1.053a1 1 0 0 0 .469 1.894h7.956a1.004 1.004 0 0 0 .995-.77 1.001 1.001 0 0 0-.544-1.134c-.873-.439-1.166-.806-1.285-1.043-.13-.26-.144-.528-.144-1.053h4.5a1.5 1.5 0 0 0 1.5-1.5v-11a1.5 1.5 0 0 0-1.5-1.5h-15zm8.883 16a2.621 2.621 0 0 1-.027-.053c-.357-.714-.357-1.42-.356-1.895v-.052h-2v.052c0 .475.001 1.181-.356 1.895a2.913 2.913 0 0 1-.027.053h2.766zm5.617-6h-14v2h14v-2z\"><\/path><\/svg>",
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg"
+          }
+        },
+        "38abdcbf-2c25-47af-8002-556abd08d958": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "eye",
+            "title": "spy",
+            "content": "<p>with my little.... Corporis quisquam nostrum nulla veniam recusan<\/p>",
+            "url": "",
+            "svg": "",
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg"
+          }
+        },
+        "e302598c-f31e-4262-b05c-581d72bcd05b": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_list": "recycle",
+            "title": "Recycle",
+            "content": "<p>Ac euismod vel sit<strong>maecenas<\/strong>id pellentesque eu sed consectetur.<em>Malesuada<\/em>adipiscing sagittis vel nulla nec.<\/p>",
+            "url": "",
+            "svg": ""
+          }
+        }
+      },
+      "block_order": [
+        "f536a651-bf07-4550-a0f9-450440ba4a05",
+        "5af2db75-3600-447e-9ec7-231e5eb73dbb",
+        "69f589c7-8a89-43b4-b375-fecb6730c840",
+        "db3fe861-caa5-4580-a6e1-6025e89938be",
+        "a34d6bd7-0f00-44fe-a9ec-158515704c5b",
+        "e3227227-431f-425e-b0d2-b346d34778ad",
+        "38abdcbf-2c25-47af-8002-556abd08d958",
+        "e302598c-f31e-4262-b05c-581d72bcd05b"
+      ],
+      "settings": {
+        "preheading": "Everything you need",
+        "title": "Accelerate Theme",
+        "description": "<p>Ac euismod vel sit <strong>maecenas <\/strong>id pellentesque eu sed consectetur. <em>Malesuada <\/em>adipiscing sagittis vel nulla nec.<\/p>",
+        "layout": "image-column",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "a1f2d298-6699-407d-b47d-e8ed6f5a1bf8": {
+      "type": "richtext",
+      "disabled": true,
+      "blocks": {
+        "e09234fa-84e9-4d36-9c6a-facacfbb790f": {
+          "type": "text",
+          "settings": {
+            "title": "<p><strong>Content <\/strong>Here!<\/p>",
+            "style": "h2"
+          }
+        },
+        "ed53e81e-02d3-442a-a562-3c59e5a4d22b": {
+          "type": "accent_line",
+          "settings": {
+            "color": "#19d48b",
+            "height": 3,
+            "width": 80
+          }
+        },
+        "2854547a-e34e-4034-8490-361589dfc843": {
+          "type": "text",
+          "settings": {
+            "title": "<p>This is a long <em>paragraph<\/em><\/p>",
+            "style": "richtext"
+          }
+        },
+        "5b4cdc7b-fd74-4d18-b5e2-6eaa91bd1979": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-fwl.png",
+            "height": 50
+          }
+        },
+        "c72530fe-33a2-460e-b7e9-28746e631974": {
+          "type": "buttons",
+          "settings": {
+            "button_primary__text": "Primary",
+            "button_primary__url": "#",
+            "button_primary__style": "button-primary",
+            "button_secondary__text": "Secondary",
+            "button_secondary__url": "#",
+            "button_secondary__style": "button-secondary--outline"
+          }
+        }
+      },
+      "block_order": [
+        "e09234fa-84e9-4d36-9c6a-facacfbb790f",
+        "ed53e81e-02d3-442a-a562-3c59e5a4d22b",
+        "2854547a-e34e-4034-8490-361589dfc843",
+        "5b4cdc7b-fd74-4d18-b5e2-6eaa91bd1979",
+        "c72530fe-33a2-460e-b7e9-28746e631974"
+      ],
+      "settings": {
+        "fullwidth": false,
+        "align__horizontal": "items-center text-center",
+        "color_scheme": "color-group-2"
+      }
+    },
+    "567fb099-c127-4778-92c7-6db30c51d75f": {
+      "type": "products-scrollable",
+      "disabled": true,
+      "settings": {
+        "title": "Collection List",
+        "products": [
+          "blanket-sandbox-store-home-goods",
+          "smart-theme-hat",
+          "product-8",
+          "iphone-13-case-single-color-variant"
+        ],
+        "collection": "collection-3",
+        "product_limit": 20,
+        "collection__view_all": true,
+        "vendor__show": true,
+        "rating__show": true,
+        "labels__show": true,
+        "labels__discount": "percentage",
+        "image__ratio": "pb-[125%]",
+        "image__show_secondary": true,
+        "image__background": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+        "image__drop_shadow": true
+      }
+    },
+    "fba0f3a7-f8af-4b27-bef1-80250130f4e0": {
+      "type": "featured-collection-grid",
+      "disabled": true,
+      "blocks": {
+        "cc1e8694-890e-4293-bd76-ba58bbe1013e": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg",
+            "image__overlay": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+            "preheading": "Pre heading",
+            "title": "Title",
+            "subtitle": "Subtitle that is somewhat longer!\nwith line break!",
+            "content": "<p>Content with more <strong>richtext options <\/strong> and <em>italic <\/em>even or a <a href=\"#\" title=\"#\">link<\/a>!<\/p>",
+            "button_primary__text": "Button1",
+            "button_primary__url": "#",
+            "button_secondary__text": "Button 2",
+            "button_secondary__url": "#"
+          }
+        }
+      },
+      "block_order": [
+        "cc1e8694-890e-4293-bd76-ba58bbe1013e"
+      ],
+      "settings": {
+        "products": [
+          "adidas-classic-backpack",
+          "cool-dust"
+        ],
+        "collection": "collection-3",
+        "vendor__show": true,
+        "rating__show": true,
+        "labels__show": true,
+        "labels__discount": "percentage",
+        "image__ratio": "pb-[100%]",
+        "image__show_secondary": true,
+        "image__background": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+        "image__drop_shadow": true,
+        "color_scheme": "color-inherit"
+      }
+    },
+    "a9e42245-4009-4562-b3e7-c206d846a2fd": {
+      "type": "slideshow",
+      "blocks": {
+        "7d6e558a-f39f-43df-be66-13a139736066": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
+            "image__overlay": "linear-gradient(134deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.05) 100%)",
+            "preheading": "Pre Heading",
+            "title": "Heading",
+            "subtitle": "Longer Subheading maybe one or two lines\nthis is on another line",
+            "content": "<p>Paragraph content with richtext capabilities.<\/p>",
+            "button_primary__text": "button 1",
+            "button_primary__url": "#",
+            "button_secondary__text": "Button 2",
+            "button_secondary__url": "#",
+            "align__vertical": "justify-center",
+            "align__horizontal": "items-center text-center",
+            "slide": true,
+            "slide_speed": 14,
+            "color_scheme": "color-group-3"
+          }
+        },
+        "7d6e558a-f39f-43df-be66-13a139736065": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
+            "image__overlay": "linear-gradient(135deg, rgb(var(--color-text) \/ 0.01) 0%, rgb(var(--color-text) \/ 0.05) 100%)",
+            "preheading": "Pre Heading",
+            "title": "Heading 2",
+            "subtitle": "Longer Subheading maybe one or two lines\nthis is on another line",
+            "content": "<p>Paragraph content with richtext capabilities.<\/p>",
+            "button_primary__text": "button 1",
+            "button_primary__url": "#",
+            "button_secondary__text": "Button 2",
+            "button_secondary__url": "#",
+            "align__vertical": "justify-center",
+            "align__horizontal": "items-center text-center",
+            "slide": false,
+            "slide_speed": 5,
+            "color_scheme": "color-group-2"
+          }
+        }
+      },
+      "block_order": [
+        "7d6e558a-f39f-43df-be66-13a139736066",
+        "7d6e558a-f39f-43df-be66-13a139736065"
+      ],
+      "settings": {
+        "fullscreen": true,
+        "height": 640,
+        "auto_rotate": false,
+        "slide_speed": 3
+      }
+    },
+    "0b3c7426-c03c-48bb-8e0a-850548d9dbb5": {
+      "type": "marquee-bar",
+      "disabled": true,
+      "blocks": {
+        "4c1cda9d-6308-4eec-b3d1-62d8cc8a9130": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-fwl-2.png",
+            "url": ""
+          }
+        },
+        "a6af1744-255b-4748-a48a-28a632db2302": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maxi-cosi.png",
+            "url": ""
+          }
+        },
+        "af520a96-c5d2-4bd1-a429-e4363331246b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/little-dutch.png",
+            "url": ""
+          }
+        },
+        "7d883be5-78be-45ae-88ad-24ac816cac3a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bugaboo.png",
+            "url": ""
+          }
+        },
+        "254662d3-1179-41b9-b2db-d4be0ffd5352": {
+          "type": "svg",
+          "settings": {
+            "svg": "<svg width=\"256px\" height=\"228px\" viewbox=\"0 0 256 228\" version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" preserveaspectratio=\"xMidYMid\">\n    <g>\n        <path d=\"M210.483381,73.8236374 C207.827698,72.9095503 205.075867,72.0446761 202.24247,71.2267368 C202.708172,69.3261098 203.135596,67.4500894 203.515631,65.6059664 C209.753843,35.3248922 205.675082,10.9302478 191.747328,2.89849283 C178.392359,-4.80289661 156.551327,3.22703567 134.492936,22.4237776 C132.371761,24.2697233 130.244662,26.2241201 128.118477,28.2723861 C126.701777,26.917204 125.287358,25.6075897 123.876584,24.3549348 C100.758745,3.82852863 77.5866802,-4.82157937 63.6725966,3.23341515 C50.3303869,10.9571328 46.3792156,33.8904224 51.9945178,62.5880206 C52.5367729,65.3599011 53.1706189,68.1905639 53.8873982,71.068617 C50.6078941,71.9995641 47.4418534,72.9920277 44.4125156,74.0478303 C17.3093297,83.497195 0,98.3066828 0,113.667995 C0,129.533287 18.5815786,145.446423 46.8116526,155.095373 C49.0394553,155.856809 51.3511025,156.576778 53.7333796,157.260293 C52.9600965,160.37302 52.2875179,163.423318 51.7229345,166.398431 C46.3687351,194.597975 50.5500231,216.989464 63.8566899,224.664425 C77.6012619,232.590464 100.66852,224.443422 123.130185,204.809231 C124.905501,203.257196 126.687196,201.611293 128.472081,199.886102 C130.785552,202.113904 133.095375,204.222319 135.392897,206.199955 C157.14963,224.922338 178.637969,232.482469 191.932332,224.786092 C205.663234,216.837268 210.125675,192.78347 204.332202,163.5181 C203.88974,161.283006 203.374826,158.99961 202.796573,156.675661 C204.416503,156.196743 206.006814,155.702335 207.557482,155.188332 C236.905331,145.46465 256,129.745175 256,113.667995 C256,98.2510906 238.132466,83.3418093 210.483381,73.8236374 L210.483381,73.8236374 Z M204.118035,144.807565 C202.718197,145.270987 201.281904,145.718918 199.818271,146.153177 C196.578411,135.896354 192.205739,124.989735 186.854729,113.72131 C191.961041,102.721277 196.164656,91.9540963 199.313837,81.7638014 C201.93261,82.5215915 204.474374,83.3208483 206.923636,84.1643056 C230.613348,92.3195488 245.063763,104.377206 245.063763,113.667995 C245.063763,123.564379 229.457753,136.411268 204.118035,144.807565 L204.118035,144.807565 Z M193.603754,165.642007 C196.165567,178.582766 196.531475,190.282717 194.834536,199.429057 C193.309843,207.64764 190.243595,213.12715 186.452366,215.321689 C178.384612,219.991462 161.131788,213.921395 142.525146,197.909832 C140.392124,196.074366 138.243609,194.114502 136.088259,192.040261 C143.301619,184.151133 150.510878,174.979732 157.54698,164.793993 C169.922699,163.695814 181.614905,161.900447 192.218042,159.449363 C192.740247,161.555956 193.204126,163.621993 193.603754,165.642007 L193.603754,165.642007 Z M87.2761866,214.514686 C79.3938934,217.298414 73.1160375,217.378157 69.3211631,215.189998 C61.2461189,210.532528 57.8891498,192.554265 62.4682434,168.438039 C62.9927272,165.676183 63.6170041,162.839142 64.3365173,159.939216 C74.8234575,162.258154 86.4299951,163.926841 98.8353334,164.932519 C105.918826,174.899534 113.336329,184.06091 120.811247,192.08264 C119.178102,193.65928 117.551336,195.16028 115.933685,196.574699 C106.001303,205.256705 96.0479605,211.41654 87.2761866,214.514686 L87.2761866,214.514686 Z M50.3486141,144.746959 C37.8658105,140.48046 27.5570398,134.935332 20.4908634,128.884403 C14.1414664,123.446815 10.9357817,118.048415 10.9357817,113.667995 C10.9357817,104.34622 24.8334611,92.4562517 48.0123604,84.3748281 C50.8247961,83.3942121 53.7689223,82.4701001 56.8242337,81.6020363 C60.0276398,92.0224477 64.229889,102.917218 69.3011135,113.93411 C64.1642716,125.11459 59.9023288,136.182975 56.6674809,146.725506 C54.489347,146.099407 52.3791089,145.440499 50.3486141,144.746959 L50.3486141,144.746959 Z M62.7270678,60.4878073 C57.9160346,35.9004118 61.1112387,17.3525532 69.1516515,12.6982729 C77.7160924,7.74005624 96.6544653,14.8094222 116.614922,32.5329619 C117.890816,33.6657739 119.171723,34.8514442 120.456275,36.0781256 C113.018267,44.0647686 105.66866,53.1573386 98.6480514,63.0655695 C86.6081646,64.1815215 75.0831931,65.9741531 64.4868907,68.3746571 C63.8206914,65.6948233 63.2305903,63.0619242 62.7270678,60.4878073 L62.7270678,60.4878073 Z M173.153901,87.7550367 C170.620796,83.3796304 168.020249,79.1076627 165.369124,74.9523483 C173.537126,75.9849113 181.362914,77.3555864 188.712066,79.0329319 C186.505679,86.1041206 183.755673,93.4974728 180.518546,101.076741 C178.196419,96.6680702 175.740322,92.2229454 173.153901,87.7550367 L173.153901,87.7550367 Z M128.122121,43.8938899 C133.166461,49.3588189 138.218091,55.4603279 143.186789,62.0803968 C138.179814,61.8439007 133.110868,61.720868 128.000001,61.720868 C122.937434,61.720868 117.905854,61.8411667 112.929865,62.0735617 C117.903575,55.515009 122.99895,49.4217021 128.122121,43.8938899 L128.122121,43.8938899 Z M82.8018984,87.830679 C80.2715265,92.2183886 77.8609975,96.6393627 75.5753239,101.068539 C72.3906004,93.5156998 69.6661103,86.0886276 67.440586,78.9171899 C74.7446255,77.2826781 82.5335049,75.9461789 90.6495601,74.9332099 C87.9610684,79.1268011 85.3391054,83.4302106 82.8018984,87.8297677 L82.8018984,87.830679 L82.8018984,87.830679 Z M90.8833221,153.182899 C82.4979621,152.247395 74.5919739,150.979704 67.289757,149.390303 C69.5508242,142.09082 72.3354636,134.505173 75.5876271,126.789657 C77.8792246,131.215644 80.2993228,135.638441 82.8451877,140.03572 L82.8456433,140.03572 C85.4388987,144.515476 88.1255676,148.90364 90.8833221,153.182899 L90.8833221,153.182899 Z M128.424691,184.213105 C123.24137,178.620587 118.071264,172.434323 113.021912,165.780078 C117.923624,165.972373 122.921029,166.0708 128.000001,166.0708 C133.217953,166.0708 138.376211,165.953235 143.45336,165.727219 C138.468257,172.501308 133.434855,178.697141 128.424691,184.213105 L128.424691,184.213105 Z M180.622896,126.396409 C184.044571,134.195313 186.929004,141.741317 189.219234,148.9164 C181.796719,150.609693 173.782736,151.973534 165.339049,152.986959 C167.996555,148.775595 170.619884,144.430263 173.197646,139.960532 C175.805484,135.438399 178.28163,130.90943 180.622896,126.396409 L180.622896,126.396409 Z M163.724586,134.496971 C159.722835,141.435557 155.614455,148.059271 151.443648,154.311611 C143.847063,154.854776 135.998946,155.134562 128.000001,155.134562 C120.033408,155.134562 112.284171,154.887129 104.822013,154.402745 C100.48306,148.068386 96.285368,141.425078 92.3091341,134.556664 L92.3100455,134.556664 C88.3442923,127.706935 84.6943232,120.799333 81.3870228,113.930466 C84.6934118,107.045648 88.3338117,100.130301 92.276781,93.292874 L92.2758697,93.294241 C96.2293193,86.4385872 100.390102,79.8276317 104.688954,73.5329157 C112.302398,72.9573964 120.109505,72.6571055 127.999545,72.6571055 L128.000001,72.6571055 C135.925583,72.6571055 143.742714,72.9596746 151.353879,73.5402067 C155.587114,79.7888993 159.719645,86.3784378 163.688588,93.2350031 C167.702644,100.168578 171.389978,107.037901 174.724618,113.77508 C171.400003,120.627999 167.720871,127.566587 163.724586,134.496971 L163.724586,134.496971 Z M186.284677,12.3729198 C194.857321,17.3165548 198.191049,37.2542268 192.804953,63.3986692 C192.461372,65.0669011 192.074504,66.7661189 191.654369,68.4881206 C181.03346,66.0374921 169.500286,64.2138746 157.425315,63.0810626 C150.391035,53.0639249 143.101577,43.9572289 135.784778,36.073113 C137.751934,34.1806885 139.716356,32.3762092 141.672575,30.673346 C160.572216,14.2257007 178.236518,7.73185406 186.284677,12.3729198 L186.284677,12.3729198 Z M128.000001,90.8080696 C140.624975,90.8080696 150.859926,101.042565 150.859926,113.667995 C150.859926,126.292969 140.624975,136.527922 128.000001,136.527922 C115.375026,136.527922 105.140075,126.292969 105.140075,113.667995 C105.140075,101.042565 115.375026,90.8080696 128.000001,90.8080696 L128.000001,90.8080696 Z\" fill=\"#00D8FF\"><\/path>\n    <\/g>\n<\/svg>",
+            "url": "shopify:\/\/blogs\/news"
+          }
+        },
+        "3a92fc15-1d49-4478-a141-a85f1beed5cc": {
+          "type": "svg",
+          "settings": {
+            "svg": "<svg viewbox=\"0 0 256 292\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" preserveaspectratio=\"xMidYMid\">\n  <path d=\"M223.774 57.34c-.201-1.46-1.48-2.268-2.537-2.357-1.055-.088-23.383-1.743-23.383-1.743s-15.507-15.395-17.209-17.099c-1.703-1.703-5.029-1.185-6.32-.805-.19.056-3.388 1.043-8.678 2.68-5.18-14.906-14.322-28.604-30.405-28.604-.444 0-.901.018-1.358.044C129.31 3.407 123.644.779 118.75.779c-37.465 0-55.364 46.835-60.976 70.635-14.558 4.511-24.9 7.718-26.221 8.133-8.126 2.549-8.383 2.805-9.45 10.462C21.3 95.806.038 260.235.038 260.235l165.678 31.042 89.77-19.42S223.973 58.8 223.775 57.34zM156.49 40.848l-14.019 4.339c.005-.988.01-1.96.01-3.023 0-9.264-1.286-16.723-3.349-22.636 8.287 1.04 13.806 10.469 17.358 21.32zm-27.638-19.483c2.304 5.773 3.802 14.058 3.802 25.238 0 .572-.005 1.095-.01 1.624-9.117 2.824-19.024 5.89-28.953 8.966 5.575-21.516 16.025-31.908 25.161-35.828zm-11.131-10.537c1.617 0 3.246.549 4.805 1.622-12.007 5.65-24.877 19.88-30.312 48.297l-22.886 7.088C75.694 46.16 90.81 10.828 117.72 10.828z\" fill=\"#95BF46\"><\/path>\n  <path d=\"M221.237 54.983c-1.055-.088-23.383-1.743-23.383-1.743s-15.507-15.395-17.209-17.099c-.637-.634-1.496-.959-2.394-1.099l-12.527 256.233 89.762-19.418S223.972 58.8 223.774 57.34c-.201-1.46-1.48-2.268-2.537-2.357\" fill=\"#5E8E3E\"><\/path>\n  <path d=\"M135.242 104.585l-11.069 32.926s-9.698-5.176-21.586-5.176c-17.428 0-18.305 10.937-18.305 13.693 0 15.038 39.2 20.8 39.2 56.024 0 27.713-17.577 45.558-41.277 45.558-28.44 0-42.984-17.7-42.984-17.7l7.615-25.16s14.95 12.835 27.565 12.835c8.243 0 11.596-6.49 11.596-11.232 0-19.616-32.16-20.491-32.16-52.724 0-27.129 19.472-53.382 58.778-53.382 15.145 0 22.627 4.338 22.627 4.338\" fill=\"#FFF\"><\/path>\n<\/svg>",
+            "url": ""
+          }
+        },
+        "1276f16f-ec8d-4731-926a-f90a8ff64f9b": {
+          "type": "svg",
+          "settings": {
+            "svg": "<svg viewbox=\"0 0 256 318\" version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" preserveaspectratio=\"xMidYMid\">\n    <title>turborepo<\/title>\n    <defs>\n        <lineargradient x1=\"123.779228%\" y1=\"-3.85716965e-07%\" x2=\"123.779228%\" y2=\"698.962346%\" id=\"turborepo-linearGradient-1\">\n            <stop stop-color=\"#1E90FF\" offset=\"0%\"><\/stop>\n            <stop stop-color=\"#FF1E56\" offset=\"100%\"><\/stop>\n        <\/lineargradient>\n        <lineargradient x1=\"11.4859916%\" y1=\"-2.19377472%\" x2=\"11.4859916%\" y2=\"512.39779%\" id=\"turborepo-linearGradient-2\">\n            <stop stop-color=\"#1E90FF\" offset=\"0%\"><\/stop>\n            <stop stop-color=\"#FF1E56\" offset=\"100%\"><\/stop>\n        <\/lineargradient>\n        <lineargradient x1=\"-153.743225%\" y1=\"-62.2632095%\" x2=\"-153.743225%\" y2=\"278.479413%\" id=\"turborepo-linearGradient-3\">\n            <stop stop-color=\"#1E90FF\" offset=\"0%\"><\/stop>\n            <stop stop-color=\"#FF1E56\" offset=\"100%\"><\/stop>\n        <\/lineargradient>\n        <lineargradient x1=\"-153.743225%\" y1=\"-178.48023%\" x2=\"-153.743225%\" y2=\"162.263952%\" id=\"turborepo-linearGradient-4\">\n            <stop stop-color=\"#1E90FF\" offset=\"0%\"><\/stop>\n            <stop stop-color=\"#FF1E56\" offset=\"100%\"><\/stop>\n        <\/lineargradient>\n        <lineargradient x1=\"11.4859916%\" y1=\"-412.397334%\" x2=\"11.4859916%\" y2=\"102.193662%\" id=\"turborepo-linearGradient-5\">\n            <stop stop-color=\"#1E90FF\" offset=\"0%\"><\/stop>\n            <stop stop-color=\"#FF1E56\" offset=\"100%\"><\/stop>\n        <\/lineargradient>\n        <lineargradient x1=\"123.779228%\" y1=\"-598.960854%\" x2=\"123.779228%\" y2=\"99.9997513%\" id=\"turborepo-linearGradient-6\">\n            <stop stop-color=\"#1E90FF\" offset=\"0%\"><\/stop>\n            <stop stop-color=\"#FF1E56\" offset=\"100%\"><\/stop>\n        <\/lineargradient>\n    <\/defs>\n    <g>\n        <g>\n            <path d=\"M103.409919,0.0945810675 C66.8366598,-1.16649961 30.2676723,10.1832239 0,34.1437712 L20.1770242,45.4933581 C44.1391095,27.838355 74.4025099,20.2718642 103.409919,21.5329389 L103.409919,0.0945810675 Z\" fill=\"url(#turborepo-linearGradient-1)\"><\/path>\n            <path d=\"M210.600627,48.0155928 C185.378279,21.5328962 152.590081,5.13883968 117.281356,1.35559852 L117.281356,22.7939708 C147.549029,27.8383123 174.03164,41.7101766 195.468927,63.1485746 L210.600627,48.0155928 Z\" fill=\"url(#turborepo-linearGradient-2)\"><\/path>\n            <path d=\"M256,151.42423 C254.739737,118.636032 242.128563,85.8478338 220.691275,58.1041051 L205.555303,73.2370868 C223.211802,97.1978904 233.30245,123.680502 234.562713,151.42423 L256,151.42423 Z\" fill=\"url(#turborepo-linearGradient-3)\"><\/path>\n            <path d=\"M220.691275,259.876911 C242.128563,232.133182 254.739737,199.345411 256,166.557212 L234.562713,166.557212 C233.30245,194.300941 223.211802,220.783552 205.555303,244.743929 L220.691275,259.876911 Z\" fill=\"url(#turborepo-linearGradient-4)\"><\/path>\n            <path d=\"M117.281356,316.625913 C151.329818,312.84256 185.378279,296.44846 210.600627,269.96585 L195.468927,254.832868 C174.03164,277.532127 146.284494,291.403993 117.281356,295.187343 L117.281356,316.625913 Z\" fill=\"url(#turborepo-linearGradient-5)\"><\/path>\n            <path d=\"M0,283.837714 C30.2676723,307.79809 66.8366598,319.147719 103.409919,317.88703 L103.409919,296.44846 C74.4025099,297.70958 45.3993724,290.142873 20.1770242,272.488085 L0,283.837714 Z\" fill=\"url(#turborepo-linearGradient-6)\"><\/path>\n        <\/g>\n        <path d=\"M97.6511578,71.3437019 C111.129564,71.3437019 123.569854,73.6390892 134.972031,78.2302915 C146.374206,82.6732526 156.148722,88.893398 164.295573,96.8907279 C172.587676,104.888058 179.02997,114.292183 183.622455,125.103531 C188.214939,135.766638 190.509044,147.318336 190.509044,159.758627 C190.509044,172.198918 188.214939,183.824524 183.622455,194.635872 C179.02997,205.298979 172.587676,214.629197 164.295573,222.626527 C156.148722,230.623857 146.374206,236.917909 134.972031,241.509111 C123.569854,245.952072 111.129564,248.173553 97.6511578,248.173553 C84.0274998,248.173553 71.5103114,245.952072 60.1081367,241.509111 C48.8512106,236.917909 39.1535939,230.623857 31.0067421,222.626527 C22.8598876,214.629197 16.4944931,205.298979 11.9020085,194.635872 C7.30952399,183.824524 5.0154192,172.198918 5.0154192,159.758627 C5.0154192,147.318336 7.30952399,135.766638 11.9020085,125.103531 C16.4944931,114.292183 22.8598876,104.888058 31.0067421,96.8907279 C39.1535939,88.893398 48.8512106,82.6732526 60.1081367,78.2302915 C71.5103114,73.6390892 84.0274998,71.3437019 97.6511578,71.3437019 Z M97.6511578,113.551832 C91.2814883,113.551832 85.2108658,114.736479 79.4350181,117.106201 C73.8086911,119.327681 68.8445353,122.511661 64.5510977,126.658567 C60.2576602,130.805473 56.8485416,135.692731 54.3322862,141.320339 C51.8160337,146.947947 50.5557685,153.094186 50.5557685,159.758627 C50.5557685,166.423069 51.8160337,172.569308 54.3322862,178.196916 C56.8485416,183.824524 60.2576602,188.711781 64.5510977,192.858687 C68.8445353,197.005594 73.8086911,200.26348 79.4350181,202.633202 C85.2108658,204.854682 91.2814883,205.965423 97.6511578,205.965423 C104.020825,205.965423 110.018823,204.854682 115.64515,202.633202 C121.421,200.26348 126.45778,197.005594 130.751218,192.858687 C135.194179,188.711781 138.675922,183.824524 141.192177,178.196916 C143.70843,172.569308 144.968692,166.423069 144.968692,159.758627 C144.968692,153.094186 143.70843,146.947947 141.192177,141.320339 C138.675922,135.692731 135.194179,130.805473 130.751218,126.658567 C126.45778,122.511661 121.421,119.327681 115.64515,117.106201 C110.018823,114.736479 104.020825,113.551832 97.6511578,113.551832 Z\" fill=\"#000000\"><\/path>\n    <\/g>\n<\/svg>",
+            "url": ""
+          }
+        },
+        "ad6f718b-ec28-4e4e-b2d0-be71ff93306c": {
+          "type": "text",
+          "settings": {
+            "text": "Super long line",
+            "url": ""
+          }
+        },
+        "fb1a936f-d54f-4c6e-ab9d-621e8891a809": {
+          "type": "text",
+          "settings": {
+            "text": "Multi line text might \nbe weird to achieve as there's\nno way to define the breakpoint",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "4c1cda9d-6308-4eec-b3d1-62d8cc8a9130",
+        "a6af1744-255b-4748-a48a-28a632db2302",
+        "af520a96-c5d2-4bd1-a429-e4363331246b",
+        "7d883be5-78be-45ae-88ad-24ac816cac3a",
+        "254662d3-1179-41b9-b2db-d4be0ffd5352",
+        "3a92fc15-1d49-4478-a141-a85f1beed5cc",
+        "1276f16f-ec8d-4731-926a-f90a8ff64f9b",
+        "ad6f718b-ec28-4e4e-b2d0-be71ff93306c",
+        "fb1a936f-d54f-4c6e-ab9d-621e8891a809"
+      ],
+      "settings": {
+        "height": 50,
+        "highlight": true,
+        "auto_pause": true,
+        "duration": 20,
+        "color_scheme": "color-inherit"
+      }
+    },
+    "c7dee271-c457-4cd4-a75c-62c693fa4495": {
+      "type": "benefit-tabs",
+      "disabled": true,
+      "blocks": {
+        "1ce45b04-3ee1-4881-a529-507241994098": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
+            "title": "Feature 1",
+            "content": "<p>Go big or go home, our favorite platform in a spread of colors. Lace it up, style it as you wish, and create the vibe you want.<\/p>"
+          }
+        },
+        "a0425485-22be-402a-8457-488087be15b9": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg",
+            "title": "Benefit 2",
+            "content": "<p>Go big or go home, our favorite platform in a spread of colors. Lace it up, style it as you wish, and create the vibe you want.<\/p>"
+          }
+        },
+        "e1fd3e51-975f-42a1-8817-14cc801ab944": {
+          "type": "benefit",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
+            "title": "Another long test for this loooong possible title section",
+            "content": "<p>Go big or go home, our favorite platform in a spread of colors. Lace it up, style it as you wish, and create the vibe you want.Go big or go home, our favorite platform in a spread of colors. Lace it up, style it as you wish, and create the vibe you want.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1ce45b04-3ee1-4881-a529-507241994098",
+        "a0425485-22be-402a-8457-488087be15b9",
+        "e1fd3e51-975f-42a1-8817-14cc801ab944"
+      ],
+      "settings": {
+        "layout": "-order-1",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "5592dacb-ab2f-49b9-bb86-a2e0e5a74c34": {
+      "type": "scrollable-images",
+      "disabled": true,
+      "blocks": {
+        "fb4a9016-b3be-4f2b-b4f1-494b21ea73e4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
+            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+            "title": "test2",
+            "url": "#"
+          }
+        },
+        "97ea3b8f-97af-467f-ad31-1be1df4887da": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg",
+            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+            "title": "test",
+            "url": ""
+          }
+        },
+        "6d67c6e5-536b-48a3-9565-4cc644908270": {
+          "type": "image",
+          "settings": {
+            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+            "title": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "fb4a9016-b3be-4f2b-b4f1-494b21ea73e4",
+        "97ea3b8f-97af-467f-ad31-1be1df4887da",
+        "6d67c6e5-536b-48a3-9565-4cc644908270"
+      ],
+      "settings": {
+        "overflow": false,
+        "height": 240,
+        "overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+        "products": [
+          "apron-sandbox-store-home-goods",
+          "blanket-sandbox-store-home-goods",
+          "smart-theme-hat",
+          "product-8",
+          "iphone-case-red",
+          "iphone-case-sandbox-store-accessories",
+          "jersey-shorts-sandbox-store-apparel",
+          "kettle-sandbox-store-home-goods"
+        ],
+        "collections": [
+          "collection-3",
+          "collection-5",
+          "collection-7"
+        ],
+        "color_scheme": "color-group-1"
+      }
+    },
+    "48283109-3d44-4f3b-bc6c-769f270fb0e5": {
+      "type": "object-over-image",
+      "disabled": true,
+      "blocks": {
+        "e394ff15-845f-434a-bd8b-f8b41b5dc668": {
+          "type": "product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
+            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+            "object": "product-8"
+          }
+        },
+        "b63c1393-6ed8-42e9-9606-622dcefccfdf": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/business-pug-working-on-laptop.jpg",
+            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+            "object": "collection-7"
+          }
+        },
+        "f326b626-af56-4475-9ac1-03ca98e1bdfc": {
+          "type": "collection",
+          "settings": {
+            "image__overlay": "linear-gradient(180deg, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.05) 100%)",
+            "object": ""
+          }
+        }
+      },
+      "block_order": [
+        "e394ff15-845f-434a-bd8b-f8b41b5dc668",
+        "b63c1393-6ed8-42e9-9606-622dcefccfdf",
+        "f326b626-af56-4475-9ac1-03ca98e1bdfc"
+      ],
+      "settings": {
+        "color_scheme": "color-inherit"
+      }
+    },
+    "648e6a21-25ea-4d01-9a1e-f6b838b626ea": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
+        "image__aspect_ratio": "pb-[100%]",
+        "title": "Set informed marketing goals with traffic insights",
+        "content": "<p>Using real data takes the guesswork out of your marketing strategy. Online store traffic insights help you see which sources bring traffic to your online store.<\/p>",
+        "button_primary__text": "Shop now",
+        "button_primary__url": "#",
+        "button_secondary__text": "read more",
+        "button_secondary__url": "#",
+        "image__order": "-order-1",
+        "color_scheme": "color-inherit"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Heading Style<\/p>",
+            "style": "preheader"
+          }
+        },
+        "c8fd9018-ad09-476f-8235-aff86ca6a4db": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Hyper <strong>Amazing <\/strong>Theme dev<\/p><p>test<\/p><p>asdaasdasd<\/p>",
+            "style": "h3"
+          }
+        },
+        "fb8bcd39-fcca-4bd9-a65d-d16e0e548b0e": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Using real <strong>data <\/strong>takes the guesswork out of your marketing strategy. Online store <em>traffic <\/em>insights help you see which sources bring traffic to <strong>your <\/strong>online store.<\/p>",
+            "style": "richtext"
+          }
+        },
+        "01abfa73-15d3-4d7c-8a0c-466b0a3330e9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-fwl-2.png",
+            "height": 55
+          }
+        },
+        "8cfb8710-b026-441e-a492-07b42d66f941": {
+          "type": "text",
+          "settings": {
+            "title": "<p>Another style <em>heading <\/em>text!<\/p>",
+            "style": "h4"
+          }
+        },
+        "b3a92876-f73f-4fe6-a54e-332899203fc4": {
+          "type": "buttons",
+          "settings": {
+            "button_primary__text": "Shop now",
+            "button_primary__url": "#",
+            "button_primary__style": "button-primary",
+            "button_secondary__text": "read more",
+            "button_secondary__url": "#",
+            "button_secondary__style": "button-primary--outline"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "c8fd9018-ad09-476f-8235-aff86ca6a4db",
+        "fb8bcd39-fcca-4bd9-a65d-d16e0e548b0e",
+        "01abfa73-15d3-4d7c-8a0c-466b0a3330e9",
+        "8cfb8710-b026-441e-a492-07b42d66f941",
+        "b3a92876-f73f-4fe6-a54e-332899203fc4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/three-women-in-office.jpg",
+        "image__overlay": "linear-gradient(134deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.32) 100%)",
+        "min_height": 400,
+        "align__vertical": "justify-center",
+        "align__horizontal": "items-end text-right",
+        "section_layout": "fullwidth",
+        "responsive_visibility": "responsive",
+        "padding_top": "pt-0",
+        "padding_bottom": "pb-0",
+        "color_scheme": "color-group-2"
+      }
+    }
+  },
+  "order": [
+    "c5220cf1-9456-4564-8b1c-a5a9db22e4d2",
+    "aac65a3e-3391-4282-bb24-de5e5ad55138",
+    "5f35451b-dc1d-4f08-982a-f298b21cfe2c",
+    "2dd7a932-e38b-42cd-ad6d-abfab01f2ccd",
+    "f7b3b514-c2b2-4b25-96f3-9e428f8a7f90",
+    "a2139d2a-72d3-4a90-b86f-336436371087",
+    "a2139d2a-72d3-4a90-b86f-336436371086",
+    "a1f2d298-6699-407d-b47d-e8ed6f5a1bf8",
+    "567fb099-c127-4778-92c7-6db30c51d75f",
+    "fba0f3a7-f8af-4b27-bef1-80250130f4e0",
+    "a9e42245-4009-4562-b3e7-c206d846a2fd",
+    "0b3c7426-c03c-48bb-8e0a-850548d9dbb5",
+    "c7dee271-c457-4cd4-a75c-62c693fa4495",
+    "5592dacb-ab2f-49b9-bb86-a2e0e5a74c34",
+    "48283109-3d44-4f3b-bc6c-769f270fb0e5",
+    "648e6a21-25ea-4d01-9a1e-f6b838b626ea",
+    "image_banner"
+  ]
+}

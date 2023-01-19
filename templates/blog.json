@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "layout": "collage",
+        "image__show": true,
+        "image__ratio": "pb-[100%]",
+        "image__background": "",
+        "date__show": true,
+        "author__show": true,
+        "color_scheme": "color-inherit"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
